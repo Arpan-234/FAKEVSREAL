@@ -1,0 +1,5 @@
+{
+  "name": "DeepFake Guard",
+  "description": "Advanced AI-powered image classification tool to detect deepfakes and verify image authenticity.",
+  "requestFramePermissions": []
+}
